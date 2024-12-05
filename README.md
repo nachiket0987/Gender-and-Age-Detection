@@ -50,3 +50,11 @@ Make sure you have a camera connected to your machine for the live stream.
 ## Results
 
 The age and gender detection model, trained on the UTKFace dataset, can accurately estimate the age and gender of individuals from the video stream. The code can be further customized or improved to enhance the performance.
+
+## Acknowledgments
+
+- The UTKFace dataset used in this project was sourced from Kaggle: [UTKFace Dataset](https://www.kaggle.com/jangedoo/utkface-new).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
